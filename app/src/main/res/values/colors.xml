@@ -6,4 +6,22 @@
     <color name="manhattan">#822882</color>
     <color name="blue1">#21C4F7</color>
 
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="mexar_blue">#00AEEF</color>
+    <color name="mexar_blue2">#19365E</color>
+    <color name="mexar_blue3">#1DC0F6</color>
+    <color name="mexar_blue4">#BEDFEA</color>
+
+    <color name="mexar_gris1">#EBEBEB</color>
+    <color name="mexar_gris2">#929292</color>
+    <color name="mexar_gris3">#5D5D5D</color>
+
+    <color name="textDark">#000000</color>
+    <color name="textLite">#222222</color>
+    <color name="textInverse">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="divider">#aaa</color>
+
 </resources>

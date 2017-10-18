@@ -1,0 +1,215 @@
+{
+  "productos": [
+    {
+      "producto": {
+        "name": "Alfalfa",
+        "id": 1,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "alfalfa",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Arroz",
+        "id": 2,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "arroz",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Ciruela",
+        "id": 3,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "ciruela",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Fresa",
+        "id": 4,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "fresa",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Guayaba",
+        "id": 5,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "guayaba",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Horchata",
+        "id": 6,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "horchata",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Jamaica",
+        "id": 7,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "jamaica",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Lima",
+        "id": 8,
+		"idsubcategoria":1,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "lima",
+		"nota":""
+	}
+	},
+
+	{
+      "producto": {
+        "name": "Algodón de azucar",
+        "id": 9,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "algodon_azucar",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Brownie de chocolate",
+        "id": 10,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "brownie_chocolate",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Cereza con vainilla",
+        "id": 11,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "cereza_vainilla",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chochochip",
+        "id": 12,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chocochip",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chocolate blanco con almendras",
+        "id": 13,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chocolate_blanco",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chocolate Holandés",
+        "id": 14,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chocolate_holandez",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chocolate con menta",
+        "id": 15,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chocolate_menta",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chicle",
+        "id": 16,
+		"idsubcategoria":10,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chicle",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Smoothies",
+        "id": 17,
+		"idsubcategoria":20,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "smoothie",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Frappes",
+        "id": 18,
+		"idsubcategoria":20,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "frappe",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Malteadas",
+        "id": 19,
+		"idsubcategoria":20,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "shake",
+		"nota":""
+	}
+	}
+
+	]
+}

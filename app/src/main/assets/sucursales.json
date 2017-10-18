@@ -1,0 +1,42 @@
+{
+"sucursales": [
+{
+"sucursal": {
+"id":1,
+"clave":"3030",
+"name":"Matrix Calle Lincoln",
+"comercial_name":"Matrix Calle Lincon",
+"state":"JAL",
+"city":"Guadalajara",
+"address":"Lincoln",
+"interior":"",
+"exterior":"150",
+"colonia":"Minerva",
+"cp":"44008",
+"phone1":"3634-4997",
+"phone2":" ",
+"lat":"20.677634",  
+"lng":"-103.390306"
+}
+},
+{
+"sucursal": {
+"id":2,
+"clave":"3430",
+"name":"Plaza México",
+"comercial_name":"Plaza México",
+"state":"JAL",
+"city":"Zapopan",
+"address":"Avenida Mexico",
+"interior":"Local 42",
+"exterior":"3300",
+"colonia":"Mexico",
+"cp":"45019",
+"phone1":"3110-2071",
+"phone2":"1404-7745",
+"lat":"20.679296",
+"lng":"-103.39978"
+}
+}
+]
+}
