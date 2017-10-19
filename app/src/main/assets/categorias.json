@@ -5,7 +5,7 @@
         "name": "Paleta de agua",
         "id": 1,
 		"idcategoria":1,
-		"resname":"paletas",
+		"resname":"paletas_agua",
 		"desc":"Paleta en base de agua y jugos de frutas."
       }
     },
@@ -14,72 +14,55 @@
         "name": "Paleta de leche.",
         "id": 2,
 		"idcategoria":1,
-		"resname":paletas",
+		"resname":"paletas_leche",
 		"desc":"Paleta en base de leche."
       }
     },
 	{
       "subcategoria": {
-        "name": "Paleta de agua con esplenda.",
+        "name": "Paleta especiales.",
         "id": 3,
 		"idcategoria":1,
-		"resname":"paletas",
-		"desc":"Paleta de agua endulzada con splenda."
+		"resname":"paletas_especiales",
+		"desc":"Paletas especiales (yogurt, chia, cubierta de chocolate, splenda, stevia)."
       }
     },
     {
       "subcategoria": {
-        "name": "Paleta de agua con estevia.",
+        "name": "",
         "id": 4,
-		"idcategoria":1,
-		"resname":"paletas",
-		"desc":"Paleta de agua endulzada con stevia."
+		"idcategoria":0,
+		"resname":"",
+		"desc":""
       }
     },
 	{
       "subcategoria": {
-        "name": "Paleta de yogurt",
+        "name": "",
         "id": 5,
-		"idcategoria":1,
-		"resname":"paletas",
-		"desc":"Paleta en base de yogurt."
+		"idcategoria":0,
+		"resname":"",
+		"desc":""
       }
     },
 	{
       "subcategoria": {
-        "name": "Helado de crema",
+        "name": "",
         "id": 6,
+		"idcategoria":0,
+		"resname":"",
+		"desc":""
+      }
+    },
+	{
+      "subcategoria": {
+        "name": "Ice cream",
+        "id": 7,
 		"idcategoria":2,
 		"resname":"helados",
 		"desc":"Helado en base de crema."
       }
-    },
-	{
-      "subcategoria": {
-        "name": "Helado light.",
-        "id": 7,
-		"idcategoria":2,
-		"resname":"helados",
-		"desc":"Helado con bajo contenido de calorias."
-      }
-    },
-	{
-      "subcategoria": {
-        "name": "Helado NSA",
-        "id": 8,
-		"idcategoria":2,
-		"resname":"helados",
-		"desc":"Helado sin azucar NSA (No sugar added)."
-      }
-    },
-	{
-      "subcategoria": {
-        "name": "Helado Shisbet",
-        "id": 9,
-		"idcategoria":2,
-		"resname":"helados",
-		"desc":"Helado en base de agua."
-      }
     }
+
   ]
 }

@@ -98,7 +98,18 @@ public class categorias extends AppCompatActivity {
             @Override
             public void onClick(int position) {
 
-                Log.d(TAG,"Clicked");
+                //Log.d(TAG,"Clicked");
+
+                Categoria curCategoria = _categorias.get(position);
+
+                Intent intent = new Intent();
+                intent.setClass(context, paletas.class);
+                intent.putExtra("categoria",curCategoria.get_id());
+
+                //finish();
+                startActivity(intent);
+
+
 
             }
         });

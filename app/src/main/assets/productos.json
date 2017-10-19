@@ -93,7 +93,7 @@
       "producto": {
         "name": "Algodón de azucar",
         "id": 9,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "algodon_azucar",
@@ -104,7 +104,7 @@
       "producto": {
         "name": "Brownie de chocolate",
         "id": 10,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "brownie_chocolate",
@@ -115,7 +115,7 @@
       "producto": {
         "name": "Cereza con vainilla",
         "id": 11,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "cereza_vainilla",
@@ -126,7 +126,7 @@
       "producto": {
         "name": "Chochochip",
         "id": 12,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "chocochip",
@@ -137,7 +137,7 @@
       "producto": {
         "name": "Chocolate blanco con almendras",
         "id": 13,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "chocolate_blanco",
@@ -148,7 +148,7 @@
       "producto": {
         "name": "Chocolate Holandés",
         "id": 14,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "chocolate_holandez",
@@ -159,7 +159,7 @@
       "producto": {
         "name": "Chocolate con menta",
         "id": 15,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "chocolate_menta",
@@ -170,7 +170,7 @@
       "producto": {
         "name": "Chicle",
         "id": 16,
-		"idsubcategoria":10,
+		"idsubcategoria":7,
 		"desc":"",
 		"desc_completa":"",
 		"resname": "chicle",
@@ -209,7 +209,195 @@
 		"resname": "shake",
 		"nota":""
 	}
+	},
+	{
+      "producto": {
+        "name": "Vainilla",
+        "id": 20,
+		"idsubcategoria":2,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "vainilla_leche",
+		"nota":""
 	}
+	},
+	{
+      "producto": {
+        "name": "Nuez",
+        "id": 21,
+		"idsubcategoria":2,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "nuez_leche",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Rompope",
+        "id": 22,
+		"idsubcategoria":2,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "rompope_leche",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Cajeta",
+        "id": 23,
+		"idsubcategoria":2,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "cajeta_leche",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Chocolate",
+        "id": 24,
+		"idsubcategoria":2,
+		"desc":"",
+		"desc_completa":"",
+		"resname": "chocolate_leche",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Jamaica",
+        "id": 25,
+		"idsubcategoria":3,
+		"desc":"splenda",
+		"desc_completa":"",
+		"resname": "jamaica_splenda",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Jugo Verde",
+        "id": 25,
+		"idsubcategoria":3,
+		"desc":"splenda",
+		"desc_completa":"",
+		"resname": "jugoverde_splenda",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Limón",
+        "id": 26,
+		"idsubcategoria":3,
+		"desc":"splenda",
+		"desc_completa":"",
+		"resname": "limon_splenda",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Mandarina",
+        "id": 27,
+		"idsubcategoria":3,
+		"desc":"splenda",
+		"desc_completa":"",
+		"resname": "mandarina_splenda",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Maracuyá",
+        "id": 28,
+		"idsubcategoria":3,
+		"desc":"splenda",
+		"desc_completa":"",
+		"resname": "marucuya_splenda",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Fresa",
+        "id": 29,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "fresa_stevia",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Mandarina",
+        "id": 30,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "mandarina_stevia",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Limón",
+        "id": 31,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "limon_stevia",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Durazno",
+        "id": 32,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "durazno_yogurt",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Granola",
+        "id": 33,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "granola_yogurt",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Fresa",
+        "id": 34,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "fresa_yogurt",
+		"nota":""
+	}
+	},
+	{
+      "producto": {
+        "name": "Zarzamora",
+        "id": 35,
+		"idsubcategoria":3,
+		"desc":"Stevia",
+		"desc_completa":"",
+		"resname": "zarzamora_yogurt",
+		"nota":""
+	}
+	},
+	
 
 	]
 }

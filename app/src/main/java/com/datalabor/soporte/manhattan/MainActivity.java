@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     {
 
         Intent intent = new Intent();
-        intent.setClass(context, paletas.class);
+        intent.setClass(context, categorias.class);
         intent.putExtra("categoria",1);
 
         //finish();
@@ -48,8 +48,8 @@ public class MainActivity extends AppCompatActivity {
     {
 
         Intent intent = new Intent();
-        intent.setClass(context, paletas.class);
-        intent.putExtra("categoria",10);
+        intent.setClass(context, categorias.class);
+        intent.putExtra("categoria",2);
 
         //finish();
         startActivity(intent);

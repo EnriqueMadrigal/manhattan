@@ -59,7 +59,7 @@
 
     <style name="NormalSmallField">
         <item name="android:textSize">14sp</item>
-        <item name="android:textColor">@color/mexar_gris3</item>
+        <item name="android:textColor">@color/mexar_blue</item>
     </style>
 
     <style name="RemarkSmall">

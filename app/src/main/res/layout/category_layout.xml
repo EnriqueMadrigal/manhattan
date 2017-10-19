@@ -14,8 +14,8 @@
 
         <ImageView
             android:id="@+id/imgCategoria"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
             android:padding="12dp"
             android:layout_gravity="center_horizontal"
             />
