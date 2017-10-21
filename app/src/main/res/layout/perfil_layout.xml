@@ -1,0 +1,411 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:layout_gravity="center" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/layout_round_color1"
+                android:orientation="vertical"
+                android:padding="0dp" >
+
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="240dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:orientation="vertical"
+                            android:paddingTop="5dp"
+                            android:paddingRight="10dp"
+                            android:paddingLeft="10dp">
+
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="14dp"
+                                android:textColor="@color/black"
+                                android:text="Nombre completo:"
+                                android:layout_gravity="center"/>
+
+                            <EditText
+                                android:layout_width="match_parent"
+                                android:layout_height="26dp"
+                                android:id="@+id/perfilNombreCompleto"
+                                android:textSize="14dp"
+                                android:textColor="@color/black"
+                                android:background="@drawable/background_text_field1"
+                                android:layout_gravity="center"
+                                android:lines="1"
+                                android:maxLines="1"
+                                android:imeOptions="actionDone"
+                                android:inputType="textEmailSubject"
+                                android:text=""/>
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"></View>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_margin="0dp"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="0dp"
+                                android:background="@drawable/background_text_field1"
+                                android:text="Hombre"
+                                android:id="@+id/perfilHombre"
+                                android:layout_gravity="center"
+                                android:minHeight="20dip"
+                                android:minWidth="70dip"
+                                android:textSize="14dp"/>
+
+
+                        </LinearLayout>
+
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_margin="0dp"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="0dp"
+                                android:background="@drawable/background_text_field1"
+                                android:id="@+id/perfilMujer"
+                                android:text="Mujer"
+                                android:layout_gravity="center"
+                                android:minHeight="20dip"
+                                android:minWidth="70dip"
+                                android:textSize="14dp"/>
+
+
+                        </LinearLayout>
+
+
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:paddingLeft="5dp"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:orientation="horizontal"
+                            android:paddingTop="5dp"
+                            android:paddingLeft="5dp"
+                           >
+
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="14dp"
+                                android:textColor="@color/black"
+                                android:text="Fecha de nacimiento:  "
+                                android:layout_gravity="center"/>
+
+                            <TextView
+                                android:id="@+id/perfilFechaNac"
+                                android:layout_width="wrap_content"
+                                android:layout_height="26dp"
+                                android:background="@drawable/background_text_field1"
+                                android:clickable="true"
+                                android:drawableLeft="@drawable/calendar_icon"
+                                android:drawablePadding="5dp"
+                                android:text="12-12-2016"
+                                android:textColor="@color/black"
+                                android:textSize="14dp" />
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="horizontal"
+                            android:gravity="center">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:paddingLeft="5dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="14dp"
+                                android:textColor="@color/black"
+                                android:text="Estado:"/>
+
+                            <LinearLayout
+                                android:layout_width="130dp"
+                                android:layout_height="26dp"
+                                android:gravity="center"
+                                android:background="@drawable/background_text_field1"
+                                android:orientation="horizontal">
+
+
+                                <Spinner
+                                    android:layout_width="100dp"
+                                    android:layout_height="26dp"
+                                    android:background="@color/white"
+                                    android:layout_marginLeft="12dp"
+                                    android:textSize="14dp"
+                                    android:id="@+id/perfilEstado">
+
+                                </Spinner>
+
+
+                                <LinearLayout
+                                    android:layout_width="22dp"
+                                    android:layout_height="32dp"
+                                    android:layout_marginRight="10dp">
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:clickable="true"
+                                        android:src="@drawable/spinner_dropdown"/>
+
+                                </LinearLayout>
+
+
+                            </LinearLayout>
+
+
+
+
+                        </LinearLayout>
+
+
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="horizontal"
+                            android:gravity="center">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="14dp"
+                                    android:textColor="@color/black"
+                                    android:text="Ciudad:"/>
+
+                                <LinearLayout
+                                    android:layout_width="140dp"
+                                    android:layout_height="26dp"
+                                    android:gravity="center"
+                                    android:background="@drawable/background_text_field1"
+                                    android:orientation="horizontal">
+
+
+                                    <Spinner
+                                        android:id="@+id/perfilCiudad"
+                                        android:layout_width="110dp"
+                                        android:layout_height="26dp"
+                                        android:layout_marginLeft="12dp"
+                                        android:background="@color/white"
+                                        android:textSize="14dp">
+
+                                    </Spinner>
+
+
+                                    <LinearLayout
+                                        android:layout_width="22dp"
+                                        android:layout_height="32dp"
+                                        android:layout_marginRight="14dp">
+                                        <ImageView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:clickable="true"
+                                            android:src="@drawable/spinner_dropdown"/>
+
+                                    </LinearLayout>
+
+
+                                </LinearLayout>
+
+
+
+
+                            </LinearLayout>
+
+
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_margin="0dp"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="0dp"
+                                android:background="@drawable/background_text_field1"
+                                android:text="Cancelar"
+                                android:id="@+id/perfilCancelar"
+                                android:layout_gravity="center"
+                                android:minHeight="20dip"
+                                android:minWidth="70dip"
+                                android:textSize="14dp"/>
+
+
+                        </LinearLayout>
+
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_margin="0dp"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="0dp"
+                                android:background="@drawable/background_text_field1"
+                                android:id="@+id/perfilAceptar"
+                                android:text="Aceptar"
+                                android:layout_gravity="center"
+                                android:minHeight="20dip"
+                                android:minWidth="70dip"
+                                android:textSize="14dp"/>
+
+
+                        </LinearLayout>
+
+
+
+                    </LinearLayout>
+
+
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+
+
+
+    </FrameLayout>
+</FrameLayout>
+
+
+
+
+

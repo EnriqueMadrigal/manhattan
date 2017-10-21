@@ -1,0 +1,823 @@
+{
+"ciudades": [
+{
+"ciudad": {
+"id":1,
+"city":"Acapulco",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":2,
+"city":"Aguascalientes",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":3,
+"city":"Apodaca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":4,
+"city":"Buenavista",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":5,
+"city":"Campeche",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":6,
+"city":"Cancún",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":7,
+"city":"Celaya",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":8,
+"city":"Chalco",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":9,
+"city":"Chetumal",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":10,
+"city":"Chicoloapan",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":11,
+"city":"Chihuahua",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":12,
+"city":"Chilpancingo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":13,
+"city":"Chimalhuacán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":14,
+"city":"Ciudad Acuña",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":15,
+"city":"Ciudad de México",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":16,
+"city":"Ciudad del Carmen",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":17,
+"city":"Ciudad López Mateos",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":18,
+"city":"Ciudad Madero",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":19,
+"city":"Ciudad Obregón",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":20,
+"city":"Ciudad Valles",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":21,
+"city":"Ciudad Victoria",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":22,
+"city":"Coatzacoalcos",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":23,
+"city":"Colima",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":24,
+"city":"Córdoba",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":25,
+"city":"Cuauhtémoc",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":26,
+"city":"Cuautitlán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":27,
+"city":"Cuautitlán Izcalli",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":28,
+"city":"Cuautla",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":29,
+"city":"Cuernavaca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":30,
+"city":"Culiacán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":31,
+"city":"Delicias",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":32,
+"city":"Durango",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":33,
+"city":"Ecatepec",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":34,
+"city":"Ensenada",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":35,
+"city":"Fresnillo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":36,
+"city":"General Escobedo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":37,
+"city":"Gómez Palacio",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":38,
+"city":"Guadalajara",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":39,
+"city":"Guadalupe",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":40,
+"city":"Guadalupe",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":41,
+"city":"Guaymas",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":42,
+"city":"Hermosillo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":43,
+"city":"Hidalgo del Parral",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":44,
+"city":"Iguala",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":45,
+"city":"Irapuato",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":46,
+"city":"Ixtapaluca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":47,
+"city":"Jiutepec",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":48,
+"city":"Juárez",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":49,
+"city":"Juárez",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":50,
+"city":"La Paz",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":51,
+"city":"León",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":52,
+"city":"Los Mochis",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":53,
+"city":"Manzanillo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":54,
+"city":"Matamoros",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":55,
+"city":"Mazatlán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":56,
+"city":"Mérida",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":57,
+"city":"Mexicali",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":58,
+"city":"Minatitlán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":59,
+"city":"Miramar",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":60,
+"city":"Monclova",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":61,
+"city":"Monterrey",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":62,
+"city":"Morelia",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":63,
+"city":"Naucalpan",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":64,
+"city":"Naucalpan de Juárez",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":65,
+"city":"Navojoa",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":66,
+"city":"Nezahualcóyotl",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":67,
+"city":"Nogales",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":68,
+"city":"Nuevo Laredo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":69,
+"city":"Oaxaca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":70,
+"city":"Ojo de Agua",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":71,
+"city":"Orizaba",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":72,
+"city":"Pachuca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":73,
+"city":"Piedras Negras",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":74,
+"city":"Playa del Carmen",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":75,
+"city":"Poza Rica de Hidalgo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":76,
+"city":"Puebla",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":77,
+"city":"Puerto Vallarta",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":78,
+"city":"Querétaro",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":79,
+"city":"Reynosa",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":80,
+"city":"Salamanca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":81,
+"city":"Saltillo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":82,
+"city":"San Cristóbal de las Casas",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":83,
+"city":"San Francisco Coacalco",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":84,
+"city":"San Juan Bautista Tuxtepec",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":85,
+"city":"San Juan del Río",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":86,
+"city":"San Luis Potosí",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":87,
+"city":"San Luis Río Colorado",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":88,
+"city":"San Nicolás de los Garza",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":89,
+"city":"San Pablo de las Salinas",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":90,
+"city":"San Pedro Garza García",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":91,
+"city":"Santa Catarina",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":92,
+"city":"Soledad de Graciano Sánchez",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":93,
+"city":"Tampico",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":94,
+"city":"Tapachula",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":95,
+"city":"Tehuacán",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":96,
+"city":"Tepexpan",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":97,
+"city":"Tepic",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":98,
+"city":"Texcoco de Mora",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":99,
+"city":"Tijuana",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":100,
+"city":"Tlalnepantla",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":101,
+"city":"Tlaquepaque",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":102,
+"city":"Toluca",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":103,
+"city":"Tonalá",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":104,
+"city":"Torreón",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":105,
+"city":"Tulancingo de Bravo",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":106,
+"city":"Tuxtla",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":107,
+"city":"Uruapan",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":108,
+"city":"Veracruz",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":109,
+"city":"Veracruz",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":110,
+"city":"Villa de Álvarez",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":111,
+"city":"Villa Nicolás Romero",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":112,
+"city":"Villahermosa",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":113,
+"city":"Xalapa",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":114,
+"city":"Xico",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":115,
+"city":"Zacatecas",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":116,
+"city":"Zamora",
+"name":""
+}
+},
+{
+"ciudad": {
+"id":117,
+"city":"Zapopan",
+"name":""
+}
+},
+]
+}

@@ -1,0 +1,228 @@
+{
+"estados": [
+{
+"estado": {
+"id":1,
+"state":"Aguascalientes",
+"name":"AGS"
+}
+},
+{
+"estado": {
+"id":2,
+"state":"Baja California",
+"name":"BCN"
+}
+},
+{
+"estado": {
+"id":3,
+"state":"Baja California Sur",
+"name":"BCS"
+}
+},
+{
+"estado": {
+"id":4,
+"state":"Campeche",
+"name":"CAM"
+}
+},
+{
+"estado": {
+"id":5,
+"state":"Chiapas",
+"name":"CHP"
+}
+},
+{
+"estado": {
+"id":6,
+"state":"Chihuahua",
+"name":"CHI"
+}
+},
+{
+"estado": {
+"id":7,
+"state":"Distrito Federal",
+"name":"DIF"
+}
+},
+{
+"estado": {
+"id":8,
+"state":"Coahuila",
+"name":"COA"
+}
+},
+{
+"estado": {
+"id":9,
+"state":"Colima",
+"name":"COL"
+}
+},
+{
+"estado": {
+"id":10,
+"state":"Durango",
+"name":"DUR"
+}
+},
+{
+"estado": {
+"id":11,
+"state":"Guanajuato",
+"name":"GTO"
+}
+},
+{
+"estado": {
+"id":12,
+"state":"Guerrero",
+"name":"GRO"
+}
+},
+{
+"estado": {
+"id":13,
+"state":"Hidalgo",
+"name":"HGO"
+}
+},
+{
+"estado": {
+"id":14,
+"state":"Jalisco",
+"name":"JAL"
+}
+},
+{
+"estado": {
+"id":15,
+"state":"México",
+"name":"MEX"
+}
+},
+{
+"estado": {
+"id":16,
+"state":"Michoacán",
+"name":"MIC"
+}
+},
+{
+"estado": {
+"id":17,
+"state":"Morelos",
+"name":"MOR"
+}
+},
+{
+"estado": {
+"id":18,
+"state":"Nayarit",
+"name":"NAY"
+}
+},
+{
+"estado": {
+"id":19,
+"state":"Nuevo León",
+"name":"NLE"
+}
+},
+{
+"estado": {
+"id":20,
+"state":"Oaxaca",
+"name":"OAX"
+}
+},
+{
+"estado": {
+"id":21,
+"state":"Puebla",
+"name":"PUE"
+}
+},
+{
+"estado": {
+"id":22,
+"state":"Querétaro",
+"name":"QRO"
+}
+},
+{
+"estado": {
+"id":23,
+"state":"Quintana Roo",
+"name":"ROO"
+}
+},
+{
+"estado": {
+"id":24,
+"state":"San Luis Potosí",
+"name":"SLP"
+}
+},
+{
+"estado": {
+"id":25,
+"state":"Sinaloa",
+"name":"SIN"
+}
+},
+{
+"estado": {
+"id":26,
+"state":"Sonora",
+"name":"SON"
+}
+},
+{
+"estado": {
+"id":27,
+"state":"Tabasco",
+"name":"TAB"
+}
+},
+{
+"estado": {
+"id":28,
+"state":"Tamaulipas",
+"name":"TAM"
+}
+},
+{
+"estado": {
+"id":29,
+"state":"Tlaxcala",
+"name":"TLX"
+}
+},
+{
+"estado": {
+"id":30,
+"state":"Veracruz",
+"name":"VER"
+}
+},
+{
+"estado": {
+"id":31,
+"state":"Yucatán",
+"name":"YUC"
+}
+},
+{
+"estado": {
+"id":32,
+"state":"Zacatecas",
+"name":"ZAC"
+}
+},
+]
+}
